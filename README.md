@@ -19,16 +19,16 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/home.jpg)
 
 ### 📥 Upload + Analyze  
-![Resume Upload](./screenshots/analyze.png)
+![Resume Upload](screenshots/analyze.jpg)
 
 ### 📊 Past Reports  
-![Reports](./screenshots/reports.png)
+![Reports](./screenshots/reports.jpg)
 
 ### 🔐 Login / Register  
-![Login](./screenshots/login.png)
+![Login](./screenshots/login.jpg)
 
 ---
 
